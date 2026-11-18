@@ -1,0 +1,13 @@
+set,D,anisotropy_term,gap,top,exp_gap,exp_top
+Lancon x1,2.66,2SD classical,13.43,25.46,"15-17 meV (Lancon 2016, (0k0) cut; powder ~16)",~40 meV powder band (Wildes 2012 via Lancon 2016); ~25 meV along (0k0)
+Lancon x1,2.66,(2S-1)D quantum,10.68,22.8,"15-17 meV (Lancon 2016, (0k0) cut; powder ~16)",~40 meV powder band (Wildes 2012 via Lancon 2016); ~25 meV along (0k0)
+Lancon x2,2.66,2SD classical,15.74,40.26,"15-17 meV (Lancon 2016, (0k0) cut; powder ~16)",~40 meV powder band (Wildes 2012 via Lancon 2016); ~25 meV along (0k0)
+Lancon x2,2.66,(2S-1)D quantum,12.83,37.6,"15-17 meV (Lancon 2016, (0k0) cut; powder ~16)",~40 meV powder band (Wildes 2012 via Lancon 2016); ~25 meV along (0k0)
+Wildes r4 x1,2.52,2SD classical,11.9,19.89,"15-17 meV (Lancon 2016, (0k0) cut; powder ~16)",~40 meV powder band (Wildes 2012 via Lancon 2016); ~25 meV along (0k0)
+Wildes r4 x1,2.52,(2S-1)D quantum,9.33,17.37,"15-17 meV (Lancon 2016, (0k0) cut; powder ~16)",~40 meV powder band (Wildes 2012 via Lancon 2016); ~25 meV along (0k0)
+Wildes r4 x2,2.52,2SD classical,13.47,29.71,"15-17 meV (Lancon 2016, (0k0) cut; powder ~16)",~40 meV powder band (Wildes 2012 via Lancon 2016); ~25 meV along (0k0)
+Wildes r4 x2,2.52,(2S-1)D quantum,10.82,27.18,"15-17 meV (Lancon 2016, (0k0) cut; powder ~16)",~40 meV powder band (Wildes 2012 via Lancon 2016); ~25 meV along (0k0)
+Wildes r2 x1,2.53,2SD classical,12.3,19.73,"15-17 meV (Lancon 2016, (0k0) cut; powder ~16)",~40 meV powder band (Wildes 2012 via Lancon 2016); ~25 meV along (0k0)
+Wildes r2 x1,2.53,(2S-1)D quantum,9.71,17.2,"15-17 meV (Lancon 2016, (0k0) cut; powder ~16)",~40 meV powder band (Wildes 2012 via Lancon 2016); ~25 meV along (0k0)
+Wildes r2 x2,2.53,2SD classical,14.15,29.33,"15-17 meV (Lancon 2016, (0k0) cut; powder ~16)",~40 meV powder band (Wildes 2012 via Lancon 2016); ~25 meV along (0k0)
+Wildes r2 x2,2.53,(2S-1)D quantum,11.44,26.8,"15-17 meV (Lancon 2016, (0k0) cut; powder ~16)",~40 meV powder band (Wildes 2012 via Lancon 2016); ~25 meV along (0k0)
