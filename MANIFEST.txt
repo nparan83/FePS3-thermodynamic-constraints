@@ -1,6 +1,6 @@
+b8cf892917e7f29fac015b2119239c5c  CITATION.cff
 568b81f05b145bade0688bb31f8bc4d0  LICENSE
 9026280f0404759b7a50e088714340ca  README.md
-361d528e5b07a4f2d76f865a019e3097  requirements.txt
 bb56d1f6cf6efef18028361a8d5814cb  analysis/REPRODUCTION_CHECK.md
 7808bee4af38f5799db867f830f12c6b  analysis/ana7.py
 a09fbb7300fe990676bc3613f43557f3  analysis/exp_F_windows.py
@@ -70,3 +70,4 @@ c4977c2c4bd9f7ba9b3df64d617d5bb6  mc/mc_v6/run_mc6.sh
 805a4c939d0c6e1775fde283ed265583  mc/mc_v7/ozet7.py
 a886215d5ab48382e525bf8ca185f557  mc/mc_v7/run_mc7.py
 db8acfe356fd9a47e29e7a7b2c2b467b  mc/mc_v7/run_mc7.sh
+361d528e5b07a4f2d76f865a019e3097  requirements.txt
