@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use these data or codes, please cite the article and this archive."
+title: "FePS3-thermodynamic-constraints: data and code for Three thermodynamic constraints on exchange parameters of FePS3"
+type: software
+version: 1.0.0
+date-released: 2026-11-23
+license: MIT
+repository-code: "https://github.com/nparan83/FePS3-thermodynamic-constraints"
+authors:
+  - family-names: Paran
+    given-names: Nejdet
+    affiliation: "Department of Physics, Faculty of Science, Erciyes University, Kayseri, Türkiye"
+    orcid: "https://orcid.org/0000-0003-0317-0438"
+abstract: >-
+  Monte Carlo codes (Blume-Capel and classical Heisenberg models), raw Monte Carlo
+  outputs, digitized experimental susceptibility curves and the analysis scripts that
+  generate every table and figure of the article "Three thermodynamic constraints on
+  exchange parameters of FePS3: Neel temperature, longitudinal-susceptibility step and
+  spin-flip fields" (N. Paran, submitted to Physical Review B).
+keywords:
+  - FePS3
+  - van der Waals antiferromagnet
+  - exchange parameters
+  - Monte Carlo
+  - Neel temperature
+  - magnetic susceptibility
