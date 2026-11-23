@@ -1,10 +1,14 @@
 # FePS3-thermodynamic-constraints
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24457204.svg)](https://doi.org/10.5281/zenodo.24457204)
+
 Data and code for
 
 > N. Paran, *Three thermodynamic constraints on exchange parameters of FePS₃: Néel temperature, longitudinal-susceptibility step and spin-flip fields*, submitted to Physical Review B.
 
-The article tests seven published exchange-parameter sets for bulk FePS₃ against three thermodynamic constraints: the Néel temperature, the longitudinal-susceptibility step F = [J(**Q**) − J(0)] Δχ∥, and the zigzag → ferromagnetic energy E_FM − E_zz inferred from the 39–41 T spin-flip steps. Every number in the tables and figures is either stored in this repository or produced from it by the scripts listed below. `analysis/REPRODUCTION_CHECK.md` records which outputs were regenerated and how closely they agree with the stored files.
+The article tests seven published exchange-parameter sets for bulk FePS₃ against three thermodynamic constraints: the Néel temperature, the longitudinal-susceptibility step F = [J(**Q**) − J(0)] Δχ∥, and the zigzag → ferromagnetic energy E_FM − E_zz inferred from the 39–41 T spin-flip steps. The version used for the article (v1.0.0) is archived on Zenodo: https://doi.org/10.5281/zenodo.24457204.
+
+Every number in the tables and figures is either stored in this repository or produced from it by the scripts listed below. `analysis/REPRODUCTION_CHECK.md` records which outputs were regenerated and how closely they agree with the stored files.
 
 The Monte Carlo campaigns were run with Python 3 and NumPy on the TRUBA cluster (TÜBİTAK ULAKBİM). The analysis and figure scripts need Python ≥ 3.10 with NumPy, SciPy, pandas and Matplotlib (`requirements.txt` lists the versions used for the reproduction check). No DFT calculation is part of this article.
 
